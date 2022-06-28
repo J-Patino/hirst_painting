@@ -1,3 +1,5 @@
+# Commented out code initaally extracts 20 colors into the format needed to add to the color_list
+
 # import colorgram
 #
 # rgb_colors = []
